@@ -1,0 +1,15 @@
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\bin\Debug\net6.0\Random_project.exe
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\bin\Debug\net6.0\Random_project.deps.json
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\bin\Debug\net6.0\Random_project.runtimeconfig.json
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\bin\Debug\net6.0\Random_project.dll
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\bin\Debug\net6.0\Random_project.pdb
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.csproj.AssemblyReference.cache
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.AssemblyInfoInputs.cache
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.AssemblyInfo.cs
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.csproj.CoreCompileInputs.cache
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.dll
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\refint\Random_project.dll
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.pdb
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\Random_project.genruntimeconfig.cache
+C:\Users\awillsea\source\repos\LINQ_Practice\Random_project\obj\Debug\net6.0\ref\Random_project.dll
